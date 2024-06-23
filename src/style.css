@@ -93,6 +93,12 @@ main{
     color: #000;
 }
 
+.weather-forecast-day{
+    display:inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .weather-forecast-date{
     font-size: 16px;
     opacity:0.5;
